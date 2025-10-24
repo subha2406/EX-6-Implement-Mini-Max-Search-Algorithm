@@ -142,7 +142,11 @@ while True:
 
 <hr>
 <h2>Input and Output</h2>
+
+
 <img width="391" height="592" alt="image" src="https://github.com/user-attachments/assets/91afbcd3-8727-4602-adee-251d294183fc" />
+
+
 
 <img width="426" height="383" alt="image" src="https://github.com/user-attachments/assets/fc093f32-e0c0-4167-aaba-5a79e7db8adc" />
 
